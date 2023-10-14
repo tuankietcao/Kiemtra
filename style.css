@@ -1,0 +1,8 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#my_ul li {
+    text-decoration: none;
+}
